@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<food>
+<item name="breakfast">Idly</item>
+<description>Two idly's with chutney</description>
+<calories>553</calories>
+</food>
+<food>
+<item name="breakfast">Paper Dosa</item>
+<description>Plain paper dosa with chutney</description>
+<calories>700</calories>
+</food>
+</metadata>
