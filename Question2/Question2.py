@@ -25,7 +25,7 @@ def count_john( std_list):
 
 def data_correction( table):
     for i in table:
-        if i.id >30 and i.id<200:
+        if i.id >20 and i.id<100:
             i.year=2015
 
 
